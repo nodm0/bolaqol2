@@ -1,8 +1,8 @@
 <?php
 ob_start();
-define('API_KEY','1910645013:AAGQV12U7Y3FPeBShBhaKP7_UFZPGTI8yjg');
+define('API_KEY','5459642086:AAEn4VAzOCifgvX1vtSaNiVZuAgzJbvTtQQ');
 //tokenni yozing
-$admin = "835558445";
+$admin = "1323913250";
 //bu kod @PHP_New kanli a’zolari uchun maxsus sovg’a//
 //ozizni id raqamizni yozing
 function bot($method,$datas=[]){
